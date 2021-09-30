@@ -178,3 +178,12 @@ hr {
 .showcase-blog {
     padding-bottom: 6rem;
 }
+
+code {
+    display: block;
+    padding: 4px;
+    background: grey;
+    color: white;
+    margin: 4px;
+    font-size: 16px;
+}
